@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Hi, I'm Tristan
+- Hi, I'm Tristan Ta
 - I'm currently studying Electrical Engineering
 - I chose my major because my uncles and aunts were Electrical Engineers.
 - A fun fact about me is:  I like to play Tennis, go hiking, and running.
